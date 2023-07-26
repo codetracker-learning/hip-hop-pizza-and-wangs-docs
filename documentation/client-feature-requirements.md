@@ -13,9 +13,10 @@ Attendees: Product Manager, Client (Representative from Hip Hop Pizza and Wangs)
 
 ## **1. Introduction and Project Overview**
 
-- The development team welcomed the client representative from Hip Hop Pizza and Wangs and expressed excitement about working on the POS application project.
+- The Product Manager welcomed the client representative from Hip Hop Pizza and Wangs and expressed excitement about working on the POS application project.
 - The purpose of the meeting is to understand the client's requirements and discuss the desired features and functionality for the POS application.
-- The development team emphasized that they will work closely with the client to ensure the application meets their specific needs and enhances their order management process.
+- The Product Manager emphasized that while all features will be considered, some may be prioritized for the MVP based on project constraints and timeline.
+- The engineer assigned to the project will create a proposal outlining the features to be included in the MVP.
 
 ## **2. Discussion on Desired Features and Functionality**
 
