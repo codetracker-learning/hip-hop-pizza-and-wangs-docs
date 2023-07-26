@@ -1,53 +1,55 @@
-# Project Planning Documentation for Bangazon Proposal Presentation
+# Project Planning Documentation for Hip Hop Pizza and Wangs (HHP+W) Proposal Presentation
 
 ## Introduction
-You have almost made it through the onboarding portion, and this is your opportunity to showcase your skills. The proposal presentation requires you to communicate your MVP for the student assessment and present the planning you have completed.
+Welcome to the project planning documentation for Hip Hop Pizza and Wangs (HHP+W). This is an exciting opportunity to build a Point of Sale (POS) application for a well-established restaurant, bringing together the crossroads of music and food. This document outlines the key features, requirements, and guidelines for the HHP+W project.
 
 ## Presentation Guidelines
-- Each student will have up to 5 minutes for their proposal presentation, followed by 5 minutes for questions and discussion.
-- Submit all presentation information at least 48 hours before your scheduled presentation via the provided link.
+- Each team member will have up to 5 minutes for their proposal presentation, followed by 5 minutes for questions and discussion.
+- Submit all presentation information at least 48 hours before the scheduled presentation via the provided link.
 - Utilize web presentation software (e.g., Google Slides, Canva, Prezi) to create your presentation and share the links with the instructional team.
-- Ensure your proposal clearly articulates the problem your project aims to solve for customers.
-- Clearly explain the solution your project provides to address the identified problem.
+- Ensure your proposal clearly articulates the problem HHP+W aims to solve and how your POS application will address their needs.
 
 ## Proposal Planning Requirements
 - Include a hyperlink to your Entity Relationship Diagram (ERD) accessible to instructors, along with a backup picture of your ERD in case of access issues.
-- Hyperlink your wireframes, comprehensively showing the user journey through your application.
+- Hyperlink your wireframes, comprehensively showing the user journey through the POS application.
 - Represent each view/page in your wireframes and provide notes or arrows describing user interactions.
 - Create a project board outlining your Minimum Viable Product (MVP) using tickets.
 
 ## Data Tips from Senior Engineer
 During the planning phase, consider the following tips to assist with data management:
-- The cart should not be represented as a table in the database. Instead, consider an open order as the cart, allowing only one order to be open at a time.
-- Users will act as both sellers and customers.
 - Utilize Firebase Authentication for user authentication in your application.
+- Plan your data structure to efficiently manage orders, order items, revenue, and user information.
+- Ensure proper validation and error handling for user inputs and form submissions.
 
-## Student Assessment Requirements
-Ensure your project meets the following requirements:
-- Utilize the backend framework taught during the course (e.g., ASP.NET, Django).
-- Use the major frontend libraries and/or frameworks learned during the course (e.g., React).
-- Support multiple routes to display different views to the user, allowing seamless navigation.
-- Demonstrate proficiency by following the Single Responsibility Principle and writing modular code.
-- Implement a form that allows users to create a new resource.
-- Include select elements, radio button groups, or checkbox groups in the form to choose related resources.
-- Customers should be able to delete their own data while being prevented from deleting other customers' data.
-- Customers should have the ability to edit their data.
-- Implement a flexible UI layout using a 3rd-party framework like Bootstrap or author your own CSS using Flexbox (optional stretch goal).
+## MVP Requirements
+Ensure your POS application meets the following Minimum Viable Product (MVP) requirements:
+1. Authentication:
+   - Users should be able to log in using Google authentication.
+   - When logged out, users should see an inviting homepage with a login button.
+   - When logged in, users should see a navbar with options to view orders, create an order, and view revenue.
+
+2. Order Management:
+   - Users should be able to view a list of all orders with essential details like order name, status, customer contact, and order type.
+   - Users should be able to view a list of order items associated with each order, displaying item names and prices.
+
+3. CRUD Operations:
+   - Users should be able to create a new order and add order items to it.
+   - Users should be able to update order information, including order name, customer contact, and order type.
+   - Users should be able to delete an order or an order item from an existing order.
+
+4. Closing Orders and Revenue:
+   - Users should be able to close an order by entering payment type and tip amount.
+   - Upon closing an order, the order status should change from "Open" to "Closed."
+   - Revenue data should be generated upon closing an order, capturing total order amount, date, payment type, and tip amount.
+   - Users should be able to view the total revenue made to date.
 
 ## General Requirements
-Ensure your project meets the following general requirements:
-- Ensure your project name is correctly specified in the `<title>` tag of the HTML head.
-- Verify your project name is correct in the name property in your package.json.
-- Assign the correct input types (e.g., use "number" for numeric inputs, `<textarea>` for long-form text).
-- Utilize professional and relevant data throughout your application (avoid placeholders like "test" or "example").
-- Remove zombie code (commented-out chunks) and console logs from your codebase.
-- Ensure your Developer Tools console does not display any errors.
-- Be prepared to explain any warnings that may appear in the console.
-- Build a single-page application that does not refresh on page changes.
-- Employ a limited color palette, left-align most text copy, and use consistent padding and margins.
-- Maintain consistency in views, cards, fonts, sizes, etc.
-- Resize images as necessary to display correctly in the UI, maintaining the correct aspect ratio.
+Ensure your POS application meets the following general requirements:
+- Use clean code with a focus on the Single Responsibility Principle and modular coding.
+- Utilize ES6 modules bundled with Webpack for efficient code organization.
+- Implement error-free code with clean linters.
+- Use Bootstrap 5 for responsive and stylish design elements.
+- Plan and organize the project work into tickets and milestones on the Github project board.
+- Provide a comprehensive README for the project.
 
-Remember, this project is for a client, so make it your own while staying focused on the client's requirements. Failure to address these requirements may result in rejection by the client.
-
-Proceed with your planning, incorporating the provided guidelines and the senior engineer's advice. Good luck with your presentation and project development!
+Remember, the MVP aims to deliver a functional POS application that addresses the immediate needs of Hip Hop Pizza and Wangs. Your planning and development should align with the client's requirements and preferences. Good luck with your proposal presentation and project development!
