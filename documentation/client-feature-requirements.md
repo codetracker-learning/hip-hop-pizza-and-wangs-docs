@@ -1,5 +1,5 @@
 # Client Meeting Notes
-The following meeting notes document the discussions held between the development team and the client (Hip Hop Pizza and Wangs) regarding the development of a Point of Sale (POS) application. These notes capture the key points, feature requirements, and proposals discussed during the meeting. They serve as a reference for the development team and provide insights into the client's expectations and desired outcomes. Please review these meeting notes to gain an understanding of the project's scope and objectives as conveyed by the client.
+The following meeting notes document the discussions held between the Product Manager and the client (Hip Hop Pizza and Wangs) regarding the development of a Point of Sale (POS) application. These notes capture the key points, feature requirements, and proposals discussed during the meeting. They serve as a reference for the engineer assigned to the project and provide insights into the client's expectations and desired outcomes. Please review these meeting notes to gain an understanding of the project's scope and objectives as conveyed by the client.
 
 **Meeting Notes - Hip Hop Pizza and Wangs (HHP+W) POS Application**
 
