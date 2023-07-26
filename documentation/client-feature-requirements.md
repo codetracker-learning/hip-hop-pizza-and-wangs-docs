@@ -3,7 +3,7 @@ The following meeting notes document the discussions held between the Product Ma
 
 **Meeting Notes - Hip Hop Pizza and Wangs (HHP+W) POS Application**
 
-Attendees: Development Team, Client (Representative from Hip Hop Pizza and Wangs)
+Attendees: Product Manager, Client (Representative from Hip Hop Pizza and Wangs)
 
 ## Agenda:
 1. Introduction and project overview
