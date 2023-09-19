@@ -1,26 +1,62 @@
-# Bangazon E-commerce Platform
+# Welcome to Bangazon!
 
-## Welcome to Bangazon!
-
-Congratulations on completing our onboarding training! You have come a long way and gained valuable knowledge and skills. Now it's time to apply everything you have learned to a real client project: the Bangazon E-commerce Platform.
+Hello there, Engineer! We're thrilled to have you on board for this exciting project. As you know, Bangazon is a leading consultant company, and we've been entrusted with a fantastic opportunity to build a Point of Sale (POS) system for **Hip Hop, Pizza, and Wangs**. Let's dive into the details!
 
 ## Project Description
 
-The Bangazon E-commerce Platform aims to provide a comprehensive online shopping experience for customers. As a team, we will be building an e-commerce platform where customers can view products, add them to their cart, place orders, manage their profiles, and much more. Our client has high expectations, and we have an exciting opportunity to deliver a top-notch solution.
+**Hip Hop, Pizza, and Wangs** is a beloved community restaurant that embodies the fusion of music and food. They've been serving the community for over 30 years, and now they're looking to modernize their operations with a POS system. Our goal is to deliver a system that not only meets their current needs but also scales for the future.
 
 ## Project Planning
 
-To ensure a successful project, we have carefully planned each phase. Our planning documentation covers all the important aspects of the project, including:
+Before we delve into the tasks, let's get a glimpse of our discussions with the client. These notes will give you a clear understanding of their vision and expectations.
 
-- [Detailed project requirements](./documentation/planning.md): We have documented the specific features and functionalities requested by the client. These requirements serve as our roadmap throughout the development process.
+### MVP
 
-- [Tickets for Planning and Tracking](./documentation/tickets.md): We have created a set of tickets to capture the planning process and track our progress. These tickets break down the project into manageable tasks, ensuring that every aspect of the project is accounted for. By assigning and tracking these tickets, we can stay organized and monitor our progress effectively.
+Our primary objective is to deliver a Minimum Viable Product that addresses the core needs of the client. This phase focuses on user authentication, order management, and basic functionalities to streamline their operations.
 
-- [Client Feature Requirements](./documentation/client-feature-requirements.md): We have compiled a list of features that the client is asking for. These features include customer registration and authentication, product viewing and searching, shopping cart and order management, product and seller details, profile management, and product categories.
+**Client Meeting Notes**: [MVP Client Meeting Notes](./documentation/mvp/client-feature-requirements.md)
+
+**Ticket Descriptions**: [MVP Ticket Descriptions](./documentation/mvp/tickets.md)
+
+<details>
+  <summary>Stretch Goal 1: Filtering the Data</summary>
+
+
+  Building upon our MVP, this phase aims to enhance data organization and accessibility. We'll introduce features that allow users to filter and search orders, enhancing the user experience.
+
+  **Client Meeting Notes**: [Stretch 1 Client Meeting Notes](./documentation/stretch-1/client-feature-requirements.md)
+  
+  **Ticket Descriptions**: [Stretch 1 Ticket Descriptions](./documentation/stretch-1/tickets.md)
+  
+</details>
+
+<details>
+  <summary>Stretch Goal 2: Dealing with Change</summary>
+  
+  As the client's business evolves, so should our application. This phase focuses on introducing online ordering capabilities and refining the menu management system.
+
+  **Client Meeting Notes**: [Stretch 2 Client Meeting Notes](./documentation/stretch-2/client-feature-requirements.md)
+  
+  **Ticket Descriptions**: [Stretch 2 Ticket Descriptions](./documentation/stretch-2/tickets.md)
+  
+</details>
+
+<details>
+  <summary>Stretch Goal 3: Play that Funky Music</summary>
+  
+  Embracing the cultural essence of **Hip Hop, Pizza, and Wangs**, this phase introduces features to promote hip-hop culture, including talent booking and event management.
+
+  **Client Meeting Notes**: [Stretch 3 Client Meeting Notes](./documentation/stretch-3/client-feature-requirements.md)
+  
+  **Ticket Descriptions**: [Stretch 3 Ticket Descriptions](./documentation/stretch-3/tickets.md)
+  
+</details>
 
 ## Planning and Implementation Guidelines
 
-We want to ensure that our project meets the client's expectations and adheres to industry best practices. Here are some important guidelines to follow:
+While we trust your expertise and creativity, we've outlined some guidelines to ensure the project aligns with the client's vision:
+
+- Prioritize the MVP: Before diving into the stretch goals, ensure the MVP is fully functional and tested.
 
 - Comprehensive Wireframes: We have created wireframes that illustrate the user journey and interactions within the platform. These wireframes provide a visual representation of our intended user interface and guide our design and development efforts.
 
@@ -31,6 +67,7 @@ We want to ensure that our project meets the client's expectations and adheres t
 - Collaboration and Communication: We will utilize GitHub Discussion Tickets for seeking assistance, discussing project-related topics, and keeping track of our planning process. This collaborative approach ensures efficient communication and allows the team to provide guidance, support, and feedback throughout the project.
 
 - Coding Standards: We will adhere to the Python Community's coding guidelines. This includes following consistent naming conventions, documenting classes and methods with docstrings, using proper indentation, and maintaining clean and readable code.
+
 
 ## Planning Process Tracking
 
@@ -46,15 +83,11 @@ To facilitate an organized workflow, it is recommended to follow the suggested o
 6. [Submit Proposal Links](./documentation/process-tickets.md#ticket-submit-proposal-links)
 7. [Conduct Proposal Approval Meeting](./documentation/process-tickets.md#ticket-conduct-proposal-approval-meeting)
 8. [MVP Approval Checklist](./documentation/process-tickets.md#ticket-mvp-approval-checklist)
-
-By following this order, you can build a solid foundation for the project and ensure that each step is completed in a logical sequence. Each ticket contains detailed instructions and checklists to assist you in accomplishing the necessary subtasks. Feel free to refer to the individual tickets for more information and to track your progress effectively.
-
+   
 ## Support and Mentorship
 
-Throughout the project, our dedicated team of senior engineers will provide guidance and support. They are here to assist you in understanding concepts, tools, and practices. While they will be working on their own projects, they will be available to review discussion tickets, provide feedback, and answer questions during designated meeting times.
+Remember, you're not alone on this journey! The Bangazon team is here to support you. Whether you need technical guidance, mentorship, or just someone to brainstorm with, we've got your back. Throughout the project, our dedicated team of senior engineers will provide guidance and support.
 
 ## Let's Build Something Great!
 
-Now that we have a clear plan, well-defined requirements, and the support of our senior engineers, it's time to embark on this exciting journey. Together, we will create a robust and user-friendly e-commerce platform that exceeds our client's expectations. Let's collaborate, learn from each other, and deliver an outstanding product!
-
-Happy coding!
+We're on the brink of creating something truly special for **Hip Hop, Pizza, and Wangs**. Let's bring our best to the table and deliver an exceptional POS system that they'll cherish for years to come!
