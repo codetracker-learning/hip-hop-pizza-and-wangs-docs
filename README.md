@@ -66,7 +66,7 @@ While we trust your expertise and creativity, we've outlined some guidelines to 
 
 - Collaboration and Communication: We will utilize GitHub Discussion Tickets for seeking assistance, discussing project-related topics, and keeping track of our planning process. This collaborative approach ensures efficient communication and allows the team to provide guidance, support, and feedback throughout the project.
 
-- Coding Standards: We will adhere to the Python Community's coding guidelines. This includes following consistent naming conventions, documenting classes and methods with docstrings, using proper indentation, and maintaining clean and readable code.
+- Coding Standards: We will adhere to the community-accepted coding guidelines. This includes following consistent naming conventions, documenting classes and methods with clear comments, using proper indentation, and maintaining clean and readable code.
 
 
 ## Planning Process Tracking
