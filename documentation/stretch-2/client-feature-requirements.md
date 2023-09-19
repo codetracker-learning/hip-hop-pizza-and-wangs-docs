@@ -1,10 +1,20 @@
-## Client Meeting Notes: Stretch Goals 2 - Dealing with Change
+# Client Meeting Notes: Stretch Goals 2 - Dealing with Change
 
-**Date & Time**: [Insert Date & Time]
+**Intro**:
+A meeting was convened to discuss the potential expansion of the POS system's capabilities in response to customer feedback.
 
-**Attendees**: 
-- [Owner's Name], Owner of Hip Hop, Pizza, and Wangs
-- [Product Manager's Name], Product Manager
+**Client Background**:
+With the success of the POS system, Hip Hop, Pizza, and Wangs has seen an influx of orders and customer interactions. The owners are keen on further enhancing the customer experience.
 
-**Discussion**:
-The owners of Hip Hop, Pizza, and Wangs are thrilled with the success of the POS system. They shared feedback from customers who expressed interest in placing orders online and viewing the menu when calling in. The owners see this as an opportunity to further enhance the customer experience and streamline their order process. They also mentioned the need for differentiated user roles to manage the menu and orders.
+**Objectives**:
+To explore the possibility of introducing online ordering and menu viewing functionalities.
+
+**Features Discussed**:
+- Introduction of an online menu with CRUD capabilities for Admin users.
+- Ability for customers to place orders online.
+- Differentiated user roles for menu and order management.
+
+**Next Steps**:
+- Assess the technical requirements for the online ordering system.
+- Design a user-friendly interface for the online menu.
+- Define user roles and permissions for enhanced security.
