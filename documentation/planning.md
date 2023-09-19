@@ -16,12 +16,6 @@ You have almost made it through the onboarding portion, and this is your opportu
 - Represent each view/page in your wireframes and provide notes or arrows describing user interactions.
 - Create a project board outlining your Minimum Viable Product (MVP) using tickets.
 
-## Data Tips from Senior Engineer
-During the planning phase, consider the following tips to assist with data management:
-- The cart should not be represented as a table in the database. Instead, consider an open order as the cart, allowing only one order to be open at a time.
-- Users will act as both sellers and customers.
-- Utilize Firebase Authentication for user authentication in your application.
-
 ## Student Assessment Requirements
 Ensure your project meets the following requirements:
 - Utilize the backend framework taught during the course (e.g., ASP.NET, Django).
